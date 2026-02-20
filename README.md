@@ -1,4 +1,4 @@
-# Fundamentos de OO - Classes e Objetos
+# Fundamentos de POO - Classes e Objetos
 
 ```
              o_.-._                            .   . .␍
