@@ -30,7 +30,7 @@ src/
 
 Também disponibilizei o diagrama do projeto.
 
-- [Diagrama.asta](Class Diagrama Notebook.asta).
+- [Diagrama.asta](https://github.com/LucasWerppFranco/Primeiro-trabalho-em-Java/blob/main/Class%20Diagrama%20Notebook.asta).
 
 ## Como Rodar o Projeto
 
