@@ -28,6 +28,10 @@ src/
                    └── MainSystem.java
 ```
 
+Também disponibilizei o diagrama do projeto.
+
+- [Diagrama.asta](https://github.com/LucasWerppFranco/Primeiro-trabalho-em-Java#:~:text=Class%20Diagrama%20Notebook%2Easta)
+
 ## Como Rodar o Projeto
 
 Clone o projeto na sua maquina, abra ele e utilize o comando abaixo.
