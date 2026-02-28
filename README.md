@@ -44,4 +44,4 @@ java src/br/com/notebook/main/MainSystem.java
 
 Existe um diretório neste projeto voltado inteiramente para a documentação as atualizaçoes que fiz durante o desenvolvimento do projeto. Para acessar essas ducumentaçoes clique em:
 
-- [Documentação](Documentação)
+- [Documentação](Documentation)
