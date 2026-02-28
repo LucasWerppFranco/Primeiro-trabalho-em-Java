@@ -39,3 +39,9 @@ Clone o projeto na sua maquina, abra ele e utilize o comando abaixo.
 ```
 java src/br/com/notebook/main/MainSystem.java
 ```
+
+## Documentação
+
+Existe um diretório neste projeto voltado inteiramente para a documentação as atualizaçoes que fiz durante o desenvolvimento do projeto. Para acessar essas ducumentaçoes clique em:
+
+- [Documentação](Documentação)
